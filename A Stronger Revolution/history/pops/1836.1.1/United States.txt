@@ -1685,12 +1685,6 @@
 		size = 10
 	}
 }
-
-#Colorado Region (20000)
-#claimed by both Mexico and the USA/de facto under Native Control
-#Denver (8000/2000 POPS)
-
-
 #Grand Junction (4000/1000 POPS)
 107 = {
 	aristocrats = {
